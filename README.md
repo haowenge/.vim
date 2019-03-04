@@ -1,3 +1,3 @@
 # .vim
-to update a package
+### update packages
 git submodule update --remote --merge
