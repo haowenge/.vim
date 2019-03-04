@@ -4,3 +4,6 @@
 [submodule "pack/plugin/start/ctags"]
 	path = pack/plugin/start/ctags
 	url = https://github.com/universal-ctags/ctags.git
+[submodule "pack/plugin/start/nerdtree"]
+	path = pack/plugin/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
