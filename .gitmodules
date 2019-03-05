@@ -1,9 +1,6 @@
 [submodule "pack/plugins/start/gruvbox"]
 	path = pack/plugins/start/gruvbox
 	url = https://github.com/morhetz/gruvbox.git
-[submodule "pack/plugins/start/ctags"]
-	path = pack/plugins/start/ctags
-	url = https://github.com/universal-ctags/ctags.git
 [submodule "pack/plugins/start/nerdtree"]
 	path = pack/plugins/start/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
