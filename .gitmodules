@@ -1,5 +1,5 @@
-[submodule "pack/start/gruvbox"]
-	path = pack/start/gruvbox
+[submodule "pack/plugin/start/gruvbox"]
+	path = pack/plugin/start/gruvbox
 	url = https://github.com/morhetz/gruvbox.git
 [submodule "pack/plugin/start/ctags"]
 	path = pack/plugin/start/ctags
